@@ -1,6 +1,6 @@
 {
-  "name": "Start on Heroku: kodexplorer",
-  "description": "kodexplorer-heroku",
+  "name": "Start on Heroku: kod",
+  "description": "heroku-kod",
   "repository": "https://github.com/xiaofei-ya/heroku-kod",
   "addons": []
 }
