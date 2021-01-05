@@ -4,7 +4,7 @@
 Install the [Heroku Toolbelt](https://toolbelt.heroku.com/).
 
 ```sh
-$ git clone git@github.com:oner12345/kodexplorer-heroku # or clone your own fork
+$ git clone git@github.com:xiaofei-ya/heroku-kod # or clone your own fork
 $ cd kodexplorer-heroku
 $ heroku create
 $ git push heroku master
